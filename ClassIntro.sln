@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{4D4CABFB-801D-475C-B75D-DFF9001C068D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{932662D7-A024-4DBD-A56A-0223B28227CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{9274F013-0569-480C-BBF7-DE93D3C50F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D4CABFB-801D-475C-B75D-DFF9001C068D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4CABFB-801D-475C-B75D-DFF9001C068D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4CABFB-801D-475C-B75D-DFF9001C068D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4CABFB-801D-475C-B75D-DFF9001C068D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932662D7-A024-4DBD-A56A-0223B28227CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932662D7-A024-4DBD-A56A-0223B28227CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932662D7-A024-4DBD-A56A-0223B28227CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932662D7-A024-4DBD-A56A-0223B28227CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9274F013-0569-480C-BBF7-DE93D3C50F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9274F013-0569-480C-BBF7-DE93D3C50F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9274F013-0569-480C-BBF7-DE93D3C50F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9274F013-0569-480C-BBF7-DE93D3C50F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7370127-A2F6-43BA-9731-CA6FFAB32098}
+	EndGlobalSection
+EndGlobal
